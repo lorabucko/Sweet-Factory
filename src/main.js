@@ -1,0 +1,12 @@
+import './js/partials/header.js';
+import './js/partials/hero.js';
+import './js/partials/popular.js';
+import './js/partials/sweeties.js';
+import './js/partials/about-us.js';
+import './js/partials/feedback.js';
+import './js/partials/frequent-questions.js';
+import './js/partials/footer.js';
+import './js/partials/order.js';
+import './js/partials/modal.js';
+import './js/partials/desserts-modal.js';
+import 'izitoast/dist/css/iziToast.min.css';
