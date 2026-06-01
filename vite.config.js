@@ -6,10 +6,10 @@ import SortCss from 'postcss-sort-media-queries';
 
 export default defineConfig(({ command }) => {
   return {
+     base: '/Sweet-Factory/',
     define: {
       [command === 'serve' ? 'global' : '_global']: {},
     },
-    
     root: 'src',
     build: {
       sourcemap: true,
